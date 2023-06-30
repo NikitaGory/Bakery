@@ -1,0 +1,19 @@
+.title {
+  color: #fff;
+  font-weight: 200;
+}
+
+body {
+    font-family: "Inter";
+}
+
+.btn {
+    border-radius: 17px;
+    background: #B47B48;
+    color: #FFF;
+}
+
+.container {
+    width: 1252px;
+    margin: 0 auto;
+}
