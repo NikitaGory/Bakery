@@ -1,0 +1,116 @@
+.adress {
+    height: 819px;
+    background-color: #202023;
+}
+
+.adress-content {
+    display: flex;
+    width: 1367px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.map {
+    margin-top: 67px;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.map-title {
+    margin: 0;
+    color: #FFF;
+    font-family: Italiana;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.how-and-when {
+    height: 407px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 145px;
+}
+
+.how {
+    width: 243px;
+    height: 311px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.how-title {
+    margin: 0;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.nummer {
+    margin: 0;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    text-decoration: none;
+}
+
+.tik-tok {
+    margin: 0;
+    padding-top: 30px;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+
+.Inst {
+    margin: 0;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+
+.when {
+    margin-top: 6px;
+    height: 146px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.when-title {
+    margin: 0;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.time {
+    margin: 0;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 200;
+    line-height: normal;
+}
